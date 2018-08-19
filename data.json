@@ -1,0 +1,61 @@
+{
+	"details":{
+         "image":"download.png",
+         "name":"annapurna",
+         "phno":"+91-8247753252",
+         "email":"kasiannapurnabhavirishetty@gmail.com",
+         "address":"vignan's nirula college,guntur"		
+	},
+	"career":{
+		"info":"career choice is a challenging task"
+	},
+	"education":
+[
+		{
+			"qualification":"b.tech",
+			"institute":"vignan's nirula college",
+			"year":"2016-2020",
+			"percentage":"85%"
+
+	    },
+	{
+		"qualification":"intermediate",
+		"institute":"govt college",
+		"year":"2014-2016",
+		"percentage":"96.7"
+	},
+	{
+		"qualification":"ssc",
+		"institute":"jai bharath public school",
+		"year":"2013-2014",
+		"percentage":"98%"
+	}
+],
+"technicalskills":[
+{
+	"title":"programming languages",
+	"info":["c,c++,java,python,r"]
+},
+{
+	"title":"databases",
+	"info":["sql,mysql,oracle"]
+},
+{
+	"title":"operating systems",
+	"info":["windows,unix,linux,macos"]
+}
+],
+"achievement":[
+
+	{
+		"title":"first in debate"
+	},	
+	{
+		"title": "prathiba award in ssc"
+	},	
+	{
+		"title":"state second in sanskrit"
+	}
+]
+
+}
